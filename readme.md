@@ -2,4 +2,4 @@
 
 Web Development with Python and JavaScript
 
-## Online messaging service using Flask and SocketIO
+Online messaging service using Flask and SocketIO
